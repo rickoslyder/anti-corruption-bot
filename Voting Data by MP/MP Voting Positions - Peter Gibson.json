@@ -1,0 +1,45 @@
+{
+    "business": {
+        "consistently voted against": [
+            "measures to reduce tax avoidance"
+        ]
+    },
+    "home": {
+        "consistently voted for": [
+            "a stricter asylum system"
+        ]
+    },
+    "environment": {
+        "consistently voted against": [
+            "measures to prevent climate change"
+        ]
+    },
+    "reform": {
+        "generally voted against": [
+            "transferring more powers to the Scottish Parliament"
+        ],
+        "voted against": [
+            "fewer MPs in the House of Commons",
+            "a more proportional system for electing MPs"
+        ],
+        "has never voted on": [
+            "an equal number of electors per parliamentary constituency"
+        ],
+        "voted for": [
+            "transferring more powers to the Senedd/Welsh Parliament"
+        ]
+    },
+    "misc": {
+        "voted for": [
+            "capping civil service redundancy payments"
+        ]
+    },
+    "foreignpolicy": {
+        "consistently voted against": [
+            "a right to remain for EU nationals already in living in the UK"
+        ],
+        "almost always voted against": [
+            "more EU integration"
+        ]
+    }
+}

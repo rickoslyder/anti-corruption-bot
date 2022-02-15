@@ -1,0 +1,58 @@
+{
+    "social": {
+        "consistently voted for": [
+            "equal gay rights"
+        ],
+        "voted for": [
+            "smoking bans"
+        ]
+    },
+    "reform": {
+        "voted against": [
+            "an equal number of electors per parliamentary constituency"
+        ],
+        "voted for": [
+            "a more proportional system for electing MPs"
+        ],
+        "generally voted for": [
+            "transferring more powers to the Senedd/Welsh Parliament"
+        ],
+        "has never voted on": [
+            "fewer MPs in the House of Commons"
+        ],
+        "almost always voted for": [
+            "transferring more powers to the Scottish Parliament"
+        ]
+    },
+    "health": {
+        "voted for": [
+            "smoking bans"
+        ]
+    },
+    "environment": {
+        "voted for": [
+            "measures to prevent climate change"
+        ]
+    },
+    "home": {
+        "consistently voted against": [
+            "a stricter asylum system"
+        ]
+    },
+    "misc": {
+        "voted against": [
+            "capping civil service redundancy payments"
+        ]
+    },
+    "foreignpolicy": {
+        "consistently voted for": [
+            "more EU integration",
+            "a right to remain for EU nationals already in living in the UK"
+        ]
+    },
+    "business": {
+        "consistently voted for": [
+            "measures to reduce tax avoidance"
+        ]
+    }
+}

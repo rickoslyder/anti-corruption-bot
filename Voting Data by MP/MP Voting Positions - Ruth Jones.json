@@ -1,0 +1,69 @@
+{
+    "reform": {
+        "voted against": [
+            "an equal number of electors per parliamentary constituency"
+        ],
+        "voted for": [
+            "transferring more powers to the Senedd/Welsh Parliament",
+            "transferring more powers to the Scottish Parliament",
+            "fewer MPs in the House of Commons"
+        ],
+        "has never voted on": [
+            "a more proportional system for electing MPs"
+        ]
+    },
+    "misc": {
+        "voted against": [
+            "capping civil service redundancy payments"
+        ]
+    },
+    "foreignpolicy": {
+        "consistently voted for": [
+            "UK membership of the EU",
+            "a right to remain for EU nationals already in living in the UK"
+        ],
+        "generally voted for": [
+            "more EU integration"
+        ]
+    },
+    "health": {
+        "voted against": [
+            "reforming the NHS so GPs buy services on behalf of their patients"
+        ]
+    },
+    "taxation": {
+        "voted against": [
+            "increasing the rate of VAT"
+        ]
+    },
+    "business": {
+        "has never voted on": [
+            "new high speed rail infrastructure"
+        ],
+        "consistently voted for": [
+            "measures to reduce tax avoidance"
+        ]
+    },
+    "environment": {
+        "consistently voted for": [
+            "measures to prevent climate change"
+        ],
+        "has never voted on": [
+            "new high speed rail infrastructure"
+        ]
+    },
+    "home": {
+        "consistently voted against": [
+            "a stricter asylum system"
+        ]
+    },
+    "social": {
+        "has never voted on": [
+            "allowing marriage between two people of same sex"
+        ],
+        "voted for": [
+            "equal gay rights",
+            "laws to promote equality and human rights"
+        ]
+    }
+}

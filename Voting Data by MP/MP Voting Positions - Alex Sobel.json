@@ -1,0 +1,109 @@
+{
+    "misc": {
+        "consistently voted for": [
+            "restrictions on fees charged to tenants by letting agents"
+        ],
+        "voted against": [
+            "capping civil service redundancy payments"
+        ]
+    },
+    "education": {
+        "voted against": [
+            "university tuition fees"
+        ]
+    },
+    "welfare": {
+        "voted against": [
+            "reducing housing benefit for social tenants deemed to have excess bedrooms (which Labour describe as the "
+        ]
+    },
+    "home": {
+        "consistently voted against": [
+            "a stricter asylum system"
+        ]
+    },
+    "business": {
+        "generally voted for": [
+            "measures to reduce tax avoidance"
+        ],
+        "has never voted on": [
+            "new high speed rail infrastructure"
+        ]
+    },
+    "transport": {
+        "consistently voted against": [
+            "higher taxes on plane tickets"
+        ]
+    },
+    "foreignpolicy": {
+        "generally voted for": [
+            "a right to remain for EU nationals already in living in the UK",
+            "more EU integration"
+        ],
+        "consistently voted for": [
+            "UK membership of the EU"
+        ]
+    },
+    "health": {
+        "voted against": [
+            "reforming the NHS so GPs buy services on behalf of their patients"
+        ]
+    },
+    "reform": {
+        "generally voted for": [
+            "transferring more powers to the Scottish Parliament",
+            "transferring more powers to the Senedd/Welsh Parliament"
+        ],
+        "voted for": [
+            "more powers for local councils",
+            "fewer MPs in the House of Commons"
+        ],
+        "has never voted on": [
+            "a more proportional system for electing MPs"
+        ],
+        "consistently voted against": [
+            "reducing central government funding of local government"
+        ],
+        "voted against": [
+            "local councils keeping money raised from taxes on business premises in their areas",
+            "an equal number of electors per parliamentary constituency"
+        ]
+    },
+    "social": {
+        "consistently voted for": [
+            "equal gay rights",
+            "laws to promote equality and human rights"
+        ],
+        "voted for": [
+            "allowing marriage between two people of same sex"
+        ]
+    },
+    "taxation": {
+        "voted against": [
+            "increasing the rate of VAT"
+        ],
+        "almost always voted for": [
+            "higher taxes on banks"
+        ],
+        "consistently voted against": [
+            "higher taxes on plane tickets"
+        ],
+        "has never voted on": [
+            "raising the threshold at which people start to pay income tax"
+        ]
+    },
+    "environment": {
+        "has never voted on": [
+            "new high speed rail infrastructure"
+        ],
+        "consistently voted against": [
+            "higher taxes on plane tickets"
+        ],
+        "consistently voted for": [
+            "measures to prevent climate change"
+        ],
+        "voted for": [
+            "financial incentives for low carbon emission electricity generation methods"
+        ]
+    }
+}

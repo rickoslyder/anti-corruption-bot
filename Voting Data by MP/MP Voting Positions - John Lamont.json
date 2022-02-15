@@ -1,0 +1,105 @@
+{
+    "business": {
+        "consistently voted for": [
+            "new high speed rail infrastructure"
+        ],
+        "voted a mixture of for and against": [
+            "measures to reduce tax avoidance"
+        ]
+    },
+    "welfare": {
+        "voted for": [
+            "reducing housing benefit for social tenants deemed to have excess bedrooms (which Labour describe as the "
+        ]
+    },
+    "home": {
+        "generally voted for": [
+            "a stricter asylum system"
+        ]
+    },
+    "taxation": {
+        "consistently voted for": [
+            "higher taxes on plane tickets",
+            "raising the threshold at which people start to pay income tax"
+        ],
+        "consistently voted against": [
+            "higher taxes on banks"
+        ],
+        "voted for": [
+            "increasing the rate of VAT"
+        ]
+    },
+    "transport": {
+        "consistently voted for": [
+            "higher taxes on plane tickets"
+        ]
+    },
+    "social": {
+        "voted against": [
+            "allowing marriage between two people of same sex",
+            "equal gay rights"
+        ],
+        "generally voted against": [
+            "laws to promote equality and human rights"
+        ]
+    },
+    "foreignpolicy": {
+        "almost always voted against": [
+            "UK membership of the EU"
+        ],
+        "generally voted against": [
+            "more EU integration",
+            "a right to remain for EU nationals already in living in the UK"
+        ]
+    },
+    "health": {
+        "voted for": [
+            "reforming the NHS so GPs buy services on behalf of their patients"
+        ]
+    },
+    "education": {
+        "voted for": [
+            "university tuition fees"
+        ]
+    },
+    "misc": {
+        "voted for": [
+            "capping civil service redundancy payments"
+        ],
+        "consistently voted against": [
+            "restrictions on fees charged to tenants by letting agents"
+        ]
+    },
+    "reform": {
+        "voted for": [
+            "local councils keeping money raised from taxes on business premises in their areas",
+            "an equal number of electors per parliamentary constituency"
+        ],
+        "voted against": [
+            "a more proportional system for electing MPs",
+            "fewer MPs in the House of Commons"
+        ],
+        "generally voted for": [
+            "more powers for local councils"
+        ],
+        "generally voted against": [
+            "transferring more powers to the Senedd/Welsh Parliament",
+            "transferring more powers to the Scottish Parliament"
+        ],
+        "consistently voted for": [
+            "reducing central government funding of local government"
+        ]
+    },
+    "environment": {
+        "consistently voted for": [
+            "new high speed rail infrastructure",
+            "higher taxes on plane tickets"
+        ],
+        "consistently voted against": [
+            "measures to prevent climate change"
+        ],
+        "voted against": [
+            "financial incentives for low carbon emission electricity generation methods"
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "misc": {
+        "voted for": [
+            "capping civil service redundancy payments"
+        ],
+        "consistently voted against": [
+            "restrictions on fees charged to tenants by letting agents"
+        ]
+    },
+    "social": {
+        "voted for": [
+            "allowing marriage between two people of same sex",
+            "equal gay rights"
+        ],
+        "voted a mixture of for and against": [
+            "laws to promote equality and human rights"
+        ]
+    },
+    "foreignpolicy": {
+        "almost always voted against": [
+            "UK membership of the EU",
+            "more EU integration"
+        ],
+        "generally voted against": [
+            "a right to remain for EU nationals already in living in the UK"
+        ]
+    },
+    "business": {
+        "voted for": [
+            "new high speed rail infrastructure"
+        ],
+        "voted a mixture of for and against": [
+            "measures to reduce tax avoidance"
+        ]
+    },
+    "transport": {
+        "consistently voted for": [
+            "higher taxes on plane tickets"
+        ]
+    },
+    "taxation": {
+        "voted for": [
+            "increasing the rate of VAT"
+        ],
+        "consistently voted for": [
+            "higher taxes on plane tickets",
+            "raising the threshold at which people start to pay income tax"
+        ],
+        "consistently voted against": [
+            "higher taxes on banks"
+        ]
+    },
+    "reform": {
+        "voted against": [
+            "a more proportional system for electing MPs",
+            "fewer MPs in the House of Commons"
+        ],
+        "voted for": [
+            "an equal number of electors per parliamentary constituency",
+            "local councils keeping money raised from taxes on business premises in their areas"
+        ],
+        "generally voted against": [
+            "transferring more powers to the Senedd/Welsh Parliament",
+            "transferring more powers to the Scottish Parliament"
+        ],
+        "consistently voted for": [
+            "reducing central government funding of local government"
+        ],
+        "generally voted for": [
+            "more powers for local councils"
+        ]
+    },
+    "health": {
+        "voted for": [
+            "reforming the NHS so GPs buy services on behalf of their patients"
+        ]
+    },
+    "education": {
+        "voted for": [
+            "university tuition fees"
+        ]
+    },
+    "welfare": {
+        "voted for": [
+            "reducing housing benefit for social tenants deemed to have excess bedrooms (which Labour describe as the "
+        ]
+    },
+    "home": {
+        "consistently voted for": [
+            "a stricter asylum system"
+        ]
+    },
+    "environment": {
+        "consistently voted for": [
+            "higher taxes on plane tickets"
+        ],
+        "voted against": [
+            "financial incentives for low carbon emission electricity generation methods"
+        ],
+        "consistently voted against": [
+            "measures to prevent climate change"
+        ],
+        "voted for": [
+            "new high speed rail infrastructure"
+        ]
+    }
+}

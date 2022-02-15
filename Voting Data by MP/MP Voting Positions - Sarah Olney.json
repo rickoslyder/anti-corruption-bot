@@ -1,0 +1,60 @@
+{
+    "foreignpolicy": {
+        "consistently voted for": [
+            "more EU integration",
+            "a right to remain for EU nationals already in living in the UK",
+            "UK membership of the EU"
+        ]
+    },
+    "reform": {
+        "voted against": [
+            "reducing central government funding of local government"
+        ],
+        "voted for": [
+            "a more proportional system for electing MPs",
+            "transferring more powers to the Senedd/Welsh Parliament",
+            "transferring more powers to the Scottish Parliament"
+        ],
+        "has never voted on": [
+            "more powers for local councils",
+            "an equal number of electors per parliamentary constituency",
+            "fewer MPs in the House of Commons"
+        ]
+    },
+    "misc": {
+        "voted against": [
+            "capping civil service redundancy payments"
+        ]
+    },
+    "environment": {
+        "generally voted for": [
+            "measures to prevent climate change"
+        ]
+    },
+    "home": {
+        "consistently voted against": [
+            "a stricter asylum system"
+        ],
+        "has never voted on": [
+            "stronger enforcement of immigration rules"
+        ]
+    },
+    "taxation": {
+        "generally voted against": [
+            "higher taxes on alcoholic drinks"
+        ],
+        "consistently voted against": [
+            "more restrictive regulation of trade union activity"
+        ]
+    },
+    "business": {
+        "voted a mixture of for and against": [
+            "measures to reduce tax avoidance"
+        ]
+    },
+    "social": {
+        "voted for": [
+            "laws to promote equality and human rights"
+        ]
+    }
+}

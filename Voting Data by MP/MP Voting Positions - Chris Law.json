@@ -1,0 +1,168 @@
+{
+    "education": {
+        "consistently voted against": [
+            "university tuition fees"
+        ],
+        "generally voted against": [
+            "academy schools"
+        ]
+    },
+    "housing": {
+        "has never voted on": [
+            "phasing out secure tenancies for life",
+            "charging a market rent to high earners renting a council home"
+        ]
+    },
+    "welfare": {
+        "has never voted on": [
+            "reducing housing benefit for social tenants deemed to have excess bedrooms (which Labour describe as the "
+        ],
+        "almost always voted against": [
+            "a reduction in spending on welfare benefits"
+        ],
+        "almost always voted for": [
+            "paying higher benefits over longer periods for those unable to work due to illness or disability"
+        ]
+    },
+    "environment": {
+        "voted against": [
+            "greater regulation of hydraulic fracturing (fracking) to extract shale gas"
+        ],
+        "has never voted on": [
+            "financial incentives for low carbon emission electricity generation methods",
+            "new high speed rail infrastructure"
+        ],
+        "consistently voted against": [
+            "higher taxes on plane tickets"
+        ],
+        "generally voted for": [
+            "measures to prevent climate change"
+        ]
+    },
+    "home": {
+        "almost always voted against": [
+            "stronger enforcement of immigration rules"
+        ],
+        "consistently voted against": [
+            "requiring the mass retention of information about communications",
+            "a stricter asylum system"
+        ],
+        "generally voted against": [
+            "mass surveillance of people’s communications and activities"
+        ],
+        "has never voted on": [
+            "merging police and fire services under Police and Crime Commissioners"
+        ]
+    },
+    "reform": {
+        "consistently voted against": [
+            "an equal number of electors per parliamentary constituency",
+            "a veto for MPs from England, Wales and Northern Ireland over laws specifically impacting their part of the UK"
+        ],
+        "has never voted on": [
+            "reducing central government funding of local government",
+            "greater restrictions on campaigning by third parties, such as charities, during elections",
+            "local councils keeping money raised from taxes on business premises in their areas"
+        ],
+        "voted for": [
+            "removing hereditary peers from the House of Lords",
+            "a more proportional system for electing MPs",
+            "a wholly elected House of Lords"
+        ],
+        "voted a mixture of for and against": [
+            "more powers for local councils"
+        ],
+        "generally voted for": [
+            "transferring more powers to the Senedd/Welsh Parliament",
+            "a lower voting age"
+        ],
+        "generally voted against": [
+            "fewer MPs in the House of Commons"
+        ],
+        "almost always voted for": [
+            "transferring more powers to the Scottish Parliament"
+        ]
+    },
+    "transport": {
+        "consistently voted against": [
+            "higher taxes on plane tickets"
+        ],
+        "has never voted on": [
+            "a publicly owned railway system",
+            "greater public control of bus services"
+        ]
+    },
+    "business": {
+        "voted a mixture of for and against": [
+            "measures to reduce tax avoidance"
+        ],
+        "consistently voted against": [
+            "reducing the rate of corporation tax"
+        ],
+        "has never voted on": [
+            "new high speed rail infrastructure"
+        ]
+    },
+    "misc": {
+        "voted against": [
+            "capping civil service redundancy payments",
+            "requiring pub companies to offer pub landlords rent-only leases"
+        ],
+        "has never voted on": [
+            "restrictions on fees charged to tenants by letting agents"
+        ]
+    },
+    "foreignpolicy": {
+        "consistently voted against": [
+            "replacing Trident with a new nuclear weapons system",
+            "military action against ISIL (Daesh)",
+            "use of UK military forces in combat operations overseas",
+            "a referendum on the UK's membership of the EU"
+        ],
+        "almost always voted for": [
+            "a right to remain for EU nationals already in living in the UK",
+            "more EU integration"
+        ],
+        "consistently voted for": [
+            "UK membership of the EU"
+        ],
+        "voted for": [
+            "investigations into the Iraq war"
+        ]
+    },
+    "health": {
+        "voted against": [
+            "reforming the NHS so GPs buy services on behalf of their patients"
+        ],
+        "voted for": [
+            "allowing terminally ill people to be given assistance to end their life"
+        ]
+    },
+    "taxation": {
+        "consistently voted against": [
+            "more restrictive regulation of trade union activity",
+            "reducing capital gains tax",
+            "higher taxes on alcoholic drinks",
+            "higher taxes on plane tickets"
+        ],
+        "consistently voted for": [
+            "higher taxes on banks"
+        ],
+        "almost always voted against": [
+            "raising the threshold at which people start to pay income tax"
+        ],
+        "generally voted for": [
+            "increasing the rate of VAT"
+        ]
+    },
+    "social": {
+        "voted for": [
+            "equal gay rights",
+            "allowing marriage between two people of same sex",
+            "allowing terminally ill people to be given assistance to end their life"
+        ],
+        "generally voted for": [
+            "laws to promote equality and human rights"
+        ]
+    }
+}
