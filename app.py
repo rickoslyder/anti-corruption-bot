@@ -47,9 +47,26 @@ class MPName(Resource):
         return {"name": mp["name"]}, 200
 
 
+class MPData(Resource):
+    def get(self):
+        parser = reqparse.RequestParser()  # initialize
+
+        parser.add_argument("personId", required=True)
+        args = parser.parse_args()
+
+        # mp_name = pass
+
+        mp = next(
+            match for match in scraper.mp_list if match["person_id"] == args["personId"]
+        )
+
+        return {"mp_data": mp}, 200
+
+
 api.add_resource(MPList, "/get_mp_list")
 api.add_resource(MPVotes, "/get_mp_votes")
 api.add_resource(MPName, "/get_mp_name")
+api.add_resource(MPData, "/get_mp_data")
 
 
 @app.route("/")
