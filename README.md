@@ -11,4 +11,5 @@ Test API (running via Flask) is currently hosted at https://uk-mp-voting-data-te
 - *get_mp_votes_by_name* - Returns a list of voting positions for a specific MP (must provide a **name** in the query)
 
 e.g. https://uk-mp-voting-data-test1.herokuapp.com/get_mp_name?personId=10001
+
 e.g. https://uk-mp-voting-data-test1.herokuapp.com/get_mp_votes_by_name?name=Keir%20Starmer
