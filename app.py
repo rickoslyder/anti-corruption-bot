@@ -9,7 +9,7 @@ api = Api(app)
 
 class MPList(Resource):
     def get(self):
-        list = scraper.mps_json
+        list = json.loads(scraper.mps_json)
 
         return {"data": list}, 200
 
