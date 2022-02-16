@@ -74,19 +74,47 @@ def save_mp_scraped_votes(mp_name, personId, party=""):
 # from here, we scrape the data of all MPs returned by the TheyWorkForYou API
 # currently one-by-one, need to look into a more efficient way of scraping multiple MPs votes concurrently (multithreading?)
 
+"""
+Scrape all MPs data as normal
+Add all MPs data to a meta-dictionary
+- MP Name
+- Voting Positions (dict)
+Save meta-dictionary to file
+"""
+
+meta_dict = {}
+
 
 def scrape_all_mps(mp_list):
-    print(f"Total MPs to be processed: {len(mp_list)}")
+    total_mps = len(mp_list)
+    print(f"Total MPs to be processed: {total_mps}")
     for mp in mp_list:
         mp_name = mp["name"]
         person_id = mp["person_id"]
         party = mp["party"]
         print(f"Scraping data for: {mp_name} (ID: {person_id})")
-        save_mp_scraped_votes(mp_name, person_id, party=party)
-        print(f"Data saved!")
+        # save_mp_scraped_votes(mp_name, person_id, party=party)
+        meta_dict[mp_name] = scrape_mp_votes(person_id)
+        total_mps -= 1
+        print(f"Data saved! {total_mps} MPs to go")
+    save_all_mp_scraped_votes()
     print(f"All done!")
+
+
+FILENAME = "mp_voting_positions_all_mps.json"
+
+
+def save_all_mp_scraped_votes():
+    json_string = json.dumps(meta_dict, ensure_ascii=False, indent=4)
+    if json_string != "{}":
+        with open(f"{FILENAME}", "w") as outfile:
+            outfile.write(json_string)
+        print(f"Data saved to {FILENAME}!")
+    else:
+        print(f"No data found - please check if meta-dictionary is correct")
 
 
 # and finally, the scraping begins ;)
 
-# scrape_all_mps(mp_list[:10])
+scrape_all_mps(mp_list)
+# print(meta_dict)
