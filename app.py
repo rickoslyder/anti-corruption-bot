@@ -63,10 +63,39 @@ class MPData(Resource):
         return {"mp_data": mp}, 200
 
 
+class MPDatabyName(Resource):
+    def get(self):
+        parser = reqparse.RequestParser()  # initialize
+
+        parser.add_argument("name", required=True)
+        args = parser.parse_args()
+
+        mp = next(match for match in scraper.mp_list if match["name"] == args["name"])
+
+        return {"mp_data": mp}, 200
+
+
+class MPVotesbyName(Resource):
+    def get(self):
+        parser = reqparse.RequestParser()  # initialize
+
+        parser.add_argument("name", required=True)
+        args = parser.parse_args()
+
+        mp = next(match for match in scraper.mp_list if match["name"] == args["name"])
+
+        votes = scraper.scrape_mp_votes(mp["person_id"])
+        votes_json_string = json.dumps(votes, ensure_ascii=False, indent=4)
+
+        return {f"{mp['name']}_voting_data": votes}, 200
+
+
 api.add_resource(MPList, "/get_mp_list")
 api.add_resource(MPVotes, "/get_mp_votes")
 api.add_resource(MPName, "/get_mp_name")
 api.add_resource(MPData, "/get_mp_data")
+api.add_resource(MPDatabyName, "/get_mp_data_by_name")
+api.add_resource(MPVotesbyName, "/get_mp_votes_by_name")
 
 
 @app.route("/")
