@@ -51,5 +51,11 @@ api.add_resource(MPList, "/get_mp_list")
 api.add_resource(MPVotes, "/get_mp_votes")
 api.add_resource(MPName, "/get_mp_name")
 
+
+@app.route("/")
+def index():
+    return "<h1> Deployed to Heroku</h1>"
+
+
 if __name__ == "__main__":
     app.run()  # run our Flask app
